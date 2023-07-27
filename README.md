@@ -1,4 +1,4 @@
-# Multimodal Emotion Recognition in PyTorch (MER23 & MuSe-Mimic Challenge)
+# Multimodal Emotion Recognition in PyTorch (MER23 & MuSe-Mimic Challenges)
 
 
 Here is the PyTorch implementation of methods proposed in ''*Building Robust Multimodal Sentiment Analysis using a Simple yet Effective Multimodal Transformer*'' and ''*Learning Aligned Audiovisual Representations for Multimodal Sentiment Analysis*''.
@@ -48,8 +48,14 @@ If you find this work useful, please consider citing it.
   title={Building Robust Multimodal Sentiment Analysis using a Simple yet Effective Multimodal Transformer},
   author={Ding, Chaoyue and Zong, Daoming and Li, Baoxiang and Zheng, Ken and Zhou, Dinghao and Li, Jiakui and Zhou, Qunyan},
   booktitle={Proceedings of the 31th ACM International Conference on Multimedia},
-  pages={7030--7034},
-  year={2022}
+  year={2023}
+}
+
+@inproceedings{ding2023mmer,
+  title={Learning Aligned Audiovisual Representations for Multimodal Sentiment Analysis},
+  author={Ding, Chaoyue and Zong, Daoming and Li, Baoxiang and Zhou, Dinghao and Li, Jiakui and Zheng, Ken and Zhou, Qunyan},
+  booktitle={Proceedings of the 1st International Workshop on Multimodal and Responsible Affective Computing},
+  year={2023}
 }
 
 </code></pre>
