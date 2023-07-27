@@ -47,7 +47,7 @@ If you find this work useful, please consider citing it.
 @inproceedings{ding2023mmer,
   title={Building Robust Multimodal Sentiment Analysis using a Simple yet Effective Multimodal Transformer},
   author={Ding, Chaoyue and Zong, Daoming and Li, Baoxiang and Zheng, Ken and Zhou, Dinghao and Li, Jiakui and Zhou, Qunyan},
-  booktitle={Proceedings of the 31th ACM International Conference on Multimedia},
+  booktitle={Proceedings of the 31th ACM International Conference on Multimedia Grand Challenges Track},
   year={2023}
 }
 
