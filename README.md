@@ -40,7 +40,7 @@ Download Original Dataset：
 
 For CHEAVD2.0 and MuSe-Mimic dataset, we provide code to pre-process videos into RGB frames and audio wav files in the directory ```data/```.
 
-## Citation
+<!-- ## Citation
 If you find this work useful, please consider citing it.
 
 <pre><code>
@@ -58,7 +58,7 @@ If you find this work useful, please consider citing it.
   year={2023}
 }
 
-</code></pre>
+</code></pre> -->
 
 ## Acknowledgement
 
@@ -68,8 +68,8 @@ This research was supported by SenseTime Research.
 
 This project is released under the [GNU General Public License v3.0](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020/blob/master/LICENSE).
 
-
+<!-- 
 ## Contact us
 
 If you have any detailed questions or suggestions, you can email us:
-**dingchaoyue@sensetime.com**
+**dingchaoyue@sensetime.com** -->
