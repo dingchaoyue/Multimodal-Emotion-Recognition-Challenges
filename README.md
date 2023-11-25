@@ -40,6 +40,11 @@ Download Original Dataset：
 
 For CHEAVD2.0 and MuSe-Mimic dataset, we provide code to pre-process videos into RGB frames and audio wav files in the directory ```data/```.
 
+
+### Training and Evaluation
+
+COMING SOON.
+
 <!-- ## Citation
 If you find this work useful, please consider citing it.
 
